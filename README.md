@@ -33,7 +33,6 @@ The project demonstrates a clean and scalable structure using Controllers, Servi
 
 ## 📁 Project Structure
 
-```
 
 dotnet-6-crud-api/
 │
@@ -47,7 +46,7 @@ dotnet-6-crud-api/
 ├── WebApi.csproj    # Project file
 └── appsettings.json # App configuration
 
-````
+
 
 ---
 
@@ -66,7 +65,7 @@ Make sure you have:
    ```bash
    git clone https://github.com/itahmedfarouk/dotnet-6-crud-api.git
    cd dotnet-6-crud-api
-````
+
 
 2. **Restore packages**
 
